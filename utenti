@@ -1,0 +1,4 @@
+[
+  { id: 1, login: 'mario', avatar_url: '', html_url: '#' },
+  { id: 2, login: 'luigi', avatar_url: '', html_url: '#' }
+]
