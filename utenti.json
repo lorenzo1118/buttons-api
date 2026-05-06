@@ -3,12 +3,12 @@
     "id": 1,
     "login": "mario",
     "avatar_url": "",
-    "html_url": "https://github.com"
+    "html_url": "https://github.com/mario"
   },
   {
     "id": 2,
     "login": "luigi",
     "avatar_url": "",
-    "html_url": "https://github.com"
+    "html_url": "https://github.com/luigi"
   }
 ]
